@@ -2,7 +2,7 @@
     "id": "e0e0601d-f52b-492a-87f6-76b1452a018b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object_player",
+    "name": "obj_player",
     "eventList": [
         {
             "id": "1842baed-5bc2-4a4d-ab4e-bced04595717",
@@ -20,7 +20,7 @@
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 37,
+            "enumb": 65,
             "eventtype": 5,
             "m_owner": "e0e0601d-f52b-492a-87f6-76b1452a018b"
         },
@@ -30,7 +30,7 @@
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 39,
+            "enumb": 68,
             "eventtype": 5,
             "m_owner": "e0e0601d-f52b-492a-87f6-76b1452a018b"
         },
@@ -40,7 +40,7 @@
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 38,
+            "enumb": 87,
             "eventtype": 5,
             "m_owner": "e0e0601d-f52b-492a-87f6-76b1452a018b"
         },
@@ -52,6 +52,26 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 7,
+            "m_owner": "e0e0601d-f52b-492a-87f6-76b1452a018b"
+        },
+        {
+            "id": "c9ef8b44-77d3-4d56-949d-9eb8bfd4c53d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "e0e0601d-f52b-492a-87f6-76b1452a018b"
+        },
+        {
+            "id": "84e92b8a-7be6-4419-9d32-22c5e007b6ea",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 9,
             "m_owner": "e0e0601d-f52b-492a-87f6-76b1452a018b"
         }
     ],
